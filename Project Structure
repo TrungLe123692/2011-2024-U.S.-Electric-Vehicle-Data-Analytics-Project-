@@ -1,0 +1,24 @@
+us-ev-data-analytics/
+│
+├── data/
+│   └── us_electric_vehicles_2011_2024.csv
+│
+├── sql/
+│   └── ev_analytics_queries.sql
+│
+├── tableau/
+│   └── EV_Analytics_Dashboard.twbx
+│
+├── visuals/
+│   ├── vehicles_by_state.png
+│   ├── vehicles_by_year.png
+│   ├── top10_makes.png
+│   ├── bev_phev_mix.png
+│   └── cafv_eligibility_breakdown.png
+│
+├── output/
+│   └── EV_Analytics_Report.pdf
+│
+├── README.md
+├── .gitignore
+├── LICENSE
